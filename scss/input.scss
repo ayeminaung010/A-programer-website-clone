@@ -1,0 +1,22 @@
+.hero-section{
+    background: url("../view/img/code.jpg") no-repeat;
+    height: 400px;
+    background-attachment: fixed;
+    position: relative;
+}
+button{
+    opacity: 0.7;
+}
+body{
+    font-family: 'Poppins','Padauk', sans-serif;
+}
+
+// font family 
+@import url('https://fonts.googleapis.com/css2?family=Padauk:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+ $btn-font-family: 'Trispace', sans-serif ;
+ 
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+@import "../node_modules/bootstrap-icons/font/bootstrap-icons.css";
